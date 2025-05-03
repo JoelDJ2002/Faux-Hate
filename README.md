@@ -27,3 +27,4 @@ The objective of this sub-task is to develop a single model that generates both 
     publisher = "Association for Computational Linguistics",
 }
 ```
+Paper Link : [https://aclanthology.org/2024.icon-fauxhate.7/]([url](https://aclanthology.org/2024.icon-fauxhate.7/))
